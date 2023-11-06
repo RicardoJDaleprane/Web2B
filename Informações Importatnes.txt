@@ -1,0 +1,17 @@
+Iniciar o Servidor
+
+npm run build
+npm start
+
+
+Preparar o MongoDB Sala Aula
+
+C:\"Program Files"\PROGRAMAS\MongoDB\Server\5.0\bin\mongod --dbpath "D:\Desenvolvimento WEB\Projeto\seed-project\data\db"
+
+Preparar o MongoDB Notebook Dell
+
+C:\"Program Files"\MongoDB\Server\7.0\bin\mongod.exe --dbpath "D:\Desenvolvimento WEB\Trabalho2B\data\db"
+
+Preparar o MongoDB Notebook Lenovo 
+
+D:\PROGRAMAS\MongoDB\Server\5.0\bin\mongod.exe --dbpath "E:\Desenvolvimento WEB\Projeto\seed-project\data\db"
